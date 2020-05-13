@@ -1,8 +1,8 @@
 # CMD
 
-**docker-compose up**
+**netstat -pna | grep 9000**
+**docker-compose up -d**
 
-[Куда глядел](https://phptoday.ru/post/gotovim-lokalnuyu-sredu-docker-dlya-razrabotki-na-php)
+[nf](https://phptoday.ru/post/gotovim-lokalnuyu-sredu-docker-dlya-razrabotki-na-php)
 
-**Google**
 **_docker-compose nginx php_**
